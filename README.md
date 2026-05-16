@@ -29,6 +29,21 @@ At the current stage, this repository contains informational documentation only.
 KEFEN is documented here as a standalone SPL token.  
 Any future governance, signaling, or ecosystem-related functionality would require separate specifications and explicit versioned documentation.
 
+## Official Resources
+
+### Website
+- https://kefencoin.com/en
+- https://kefencoin.com/ru
+- https://kefencoin.com/es
+
+### GitHub Registry
+- https://github.com/WLRT-2025/kefen-registry
+
+### Social Channels
+- Telegram: https://t.me/kessyfenya
+- YouTube: https://youtube.com/@KessyFenya
+- Instagram: https://instagram.com/kessyfenya
+
 ## Repository Structure
 
 ```text
