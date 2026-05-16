@@ -1,0 +1,41 @@
+token:
+  name: "KessyFenya"
+  symbol: "KEFEN"
+
+network:
+  blockchain: "Solana"
+  standard: "SPL"
+
+supply:
+  total_supply: 999999999
+  fixed_supply: true
+
+authorities:
+  mint_authority: "renounced"
+  freeze_authority: "disabled"
+
+launch:
+  initial_launch: "2024-07-13"
+  raydium_launch: "2024-07-31"
+
+registry:
+  version: "v0.1"
+
+official:
+  website:
+    - "https://kefencoin.com/en"
+    - "https://kefencoin.com/ru"
+    - "https://kefencoin.com/es"
+
+  github:
+    - "https://github.com/WLRT-2025/kefen-registry"
+
+  telegram:
+    - "https://t.me/kessyfenya"
+
+  youtube:
+    - "https://youtube.com/@KessyFenya"
+
+identity:
+  canonical_name: "KEFEN"
+  historical_name: "KessyFenya"
