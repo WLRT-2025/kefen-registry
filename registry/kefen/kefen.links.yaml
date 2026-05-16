@@ -1,0 +1,24 @@
+# KEFEN — Official Links v0.1
+
+official:
+  website:
+    en: "https://kefencoin.com/en"
+    ru: "https://kefencoin.com/ru"
+    es: "https://kefencoin.com/es"
+
+  telegram: "https://t.me/kessyfenya"
+  youtube: "https://www.youtube.com/@KessyFenya"
+  instagram: "https://www.instagram.com/kessyfenya"
+
+repository:
+  github_registry: "https://github.com/WLRT-2025/kefen-registry"
+
+token:
+  network: "Solana"
+  symbol: "KEFEN"
+  full_name: "KessyFenya"
+  mint_address: "ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+
+notes:
+  - "This file records official public links and canonical references for KEFEN."
+  - "Links may be updated only through versioned changes in the registry."
