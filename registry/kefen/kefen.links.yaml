@@ -1,4 +1,4 @@
-# KEFEN — Official Links v0.1
+# KEFEN — Official Links v0.2
 
 official:
   website:
@@ -15,10 +15,35 @@ repository:
 
 token:
   network: "Solana"
+  standard: "SPL"
   symbol: "KEFEN"
   full_name: "KessyFenya"
   mint_address: "ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
 
+explorers:
+  solscan_token: "https://solscan.io/token/ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+  solana_explorer_token: "https://explorer.solana.com/address/ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+
+dex:
+  primary_dex: "Raydium"
+  primary_pair: "KEFEN/SOL"
+  raydium_swap: "https://raydium.io/swap/?inputMint=sol&outputMint=ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+  geckoterminal_pool: "https://www.geckoterminal.com/solana/pools/FSCnxKvt7UvoFaqzfvuxx3X1pFrYjDEA44psSzYRLNBb"
+  dextools_pair: "https://www.dextools.io/app/en/solana/pair-explorer/FSCnxKvt7UvoFaqzfvuxx3X1pFrYjDEA44psSzYRLNBb"
+
+pools:
+  raydium_kefen_sol_pool:
+    address: "FSCnxKvt7UvoFaqzfvuxx3X1pFrYjDEA44psSzYRLNBb"
+    pair: "KEFEN/SOL"
+    created_date: "2024-07-31"
+
+integrity:
+  rugcheck_report: "https://rugcheck.xyz/tokens/ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+
+discovery_tools:
+  jupiter_search: "https://jup.ag/tokens/ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump"
+
 notes:
-  - "This file records official public links and canonical references for KEFEN."
+  - "This file records official public links, explorer references, DEX references, and integrity references for KEFEN."
+  - "Third-party tools are listed for informational verification only and do not constitute endorsements."
   - "Links may be updated only through versioned changes in the registry."
