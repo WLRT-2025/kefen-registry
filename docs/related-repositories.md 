@@ -1,0 +1,38 @@
+# Related Repositories
+
+## Purpose
+
+This document explains the relationship between the main repositories associated with the broader WLRT / WaveCounter / BitCapital / KEFEN ecosystem.
+
+Its purpose is to help readers understand where to find theory, applied system logic, token-related reference materials, and applied implementation documentation.
+
+## Repository roles
+
+- **WLRT**  
+  Foundational theory and methodological basis for Wave Liquidity Redistribution Theory.
+
+- **WaveCounter**  
+  Applied conceptual and system layer built on WLRT.
+
+- **wavecounter-engineering-canon**  
+  More formalized engineering and configuration layer for WaveCounter-related system logic.
+
+- **BitCapital**  
+  Applied implementation and internal research layer, including the BitCapital Research Pool and related documentation.
+
+- **kefen-registry**  
+  Public registry and documentation anchor for KEFEN.
+
+- **MALN**  
+  Related structural research direction within the broader ecosystem.
+
+## Recommended reading path
+
+For new readers, the following path may be useful:
+
+1. Start with WLRT for theory.
+2. Continue with WaveCounter for applied conceptual direction.
+3. Review wavecounter-engineering-canon for more formal engineering structure.
+4. Read BitCapital for the applied implementation and research context.
+5. Use kefen-registry as the public KEFEN reference layer.
+6. Explore MALN as a related structural research branch.
