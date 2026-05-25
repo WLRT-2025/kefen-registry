@@ -1,63 +1,43 @@
 # KEFEN Registry
 
-This repository is the public registry and documentation anchor for **KEFEN (KessyFenya)**, a fixed-supply SPL token on the Solana blockchain.
+KEFEN Registry is the public documentation and reference layer for KEFEN within the broader WLRT / WaveCounter ecosystem.
 
-The purpose of this repository is to provide a stable, versioned, and transparent reference point for the token’s identity, technical facts, official links, and future architectural documentation.
+It exists to provide a stable public point of reference for KEFEN-related identity, documentation, architectural context, and linked repository materials.
 
-### Related applied environment
+## What KEFEN is
 
-For the applied implementation and research context in which KEFEN is currently documented, see [BitCapital](https://github.com/WLRT-2025/BitCapital). That repository describes the BitCapital Research Pool, the public documentation framework around it, and KEFEN’s current functional role inside that environment.
+KEFEN is documented as a structural and experimental token component within the evolving WLRT / WaveCounter / BitCapital architecture.
 
+At the current stage, its role is described primarily in research, methodological, and architectural terms.
 
-## Token Reference
+## Current status
 
-- **Full Name:** KessyFenya
-- **Symbol:** KEFEN
-- **Network:** Solana
-- **Token Standard:** SPL
-- **Mint Address:** `ENKgL1FhsHsYChFGJPgoAyxxK6EUt1VP99LnMce2pump`
+At the present stage, KEFEN is documented in a public registry context and linked to a broader applied research environment.
 
-## Purpose of This Registry
+Its current documentation does not present KEFEN as equity, a claim on pool assets, or a guaranteed economic entitlement.
 
-This registry is intended to:
+## Functional context
 
-- maintain a canonical reference for KEFEN documentation;
-- record technical and naming information in a stable form;
-- provide official links and verification references;
-- separate factual token documentation from marketing, trading, or price-related discussion;
-- support future architectural documentation if such documentation becomes necessary.
+KEFEN may be described across the ecosystem as a utility-oriented, executive-oriented, or structurally assigned token component, depending on the relevant document and layer of analysis.
 
-## Current Scope
+Any such functions remain subject to separate definition in architecture, policy, and implementation materials.
 
-At the current stage, this repository contains informational documentation only.
+## Related repositories
 
-KEFEN is documented here as a standalone SPL token.  
-Any future governance, signaling, or ecosystem-related functionality would require separate specifications and explicit versioned documentation.
+- Theory layer: [WLRT](https://github.com/WLRT-2025/WLRT)
+- Applied system layer: [WaveCounter](https://github.com/WLRT-2025/WaveCounter)
+- Applied implementation and research context: [BitCapital](https://github.com/WLRT-2025/BitCapital)
 
-## Official Resources
+## Documentation map
 
-### Website
-- https://kefencoin.com/en
-- https://kefencoin.com/ru
-- https://kefencoin.com/es
+This repository may include:
+- registry and identity materials;
+- token-related explanatory notes;
+- ecosystem references;
+- links to related policy and architecture documents.
 
-### GitHub Registry
-- https://github.com/WLRT-2025/kefen-registry
+## Notice
 
-### Social Channels
-- Telegram: https://t.me/kessyfenya
-- YouTube: https://youtube.com/@KessyFenya
-- Instagram: https://instagram.com/kessyfenya
+All materials in this repository are provided for research, educational, methodological, and documentation purposes only.
 
-## Repository Structure
-
-```text
-registry/
-  kefen/
-    kefen.card.md
-    kefen.technical-integrity-note.md
-    kefen.facts.yaml
-    kefen.links.yaml
-    kefen.naming.md
-    kefen.disclaimer.md
-    kefen.changelog.md
+Nothing in this repository constitutes investment advice, an offer, or a solicitation.
