@@ -4,6 +4,11 @@ This repository is the public registry and documentation anchor for **KEFEN (Kes
 
 The purpose of this repository is to provide a stable, versioned, and transparent reference point for the token’s identity, technical facts, official links, and future architectural documentation.
 
+### Related applied environment
+
+For the applied implementation and research context in which KEFEN is currently documented, see [BitCapital](https://github.com/WLRT-2025/BitCapital). That repository describes the BitCapital Research Pool, the public documentation framework around it, and KEFEN’s current functional role inside that environment.
+
+
 ## Token Reference
 
 - **Full Name:** KessyFenya
