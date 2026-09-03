@@ -13,7 +13,6 @@ Official public registry and documentation reference for KEFEN (KessyFenya), a f
 The mint address above is the canonical on-chain identifier of KEFEN. Tokens using the KEFEN symbol or KessyFenya name with any other mint address are not the canonical KEFEN token.
 
 ## Documentation
-## Documentation
 
 This repository serves as a public documentation and reference point for KEFEN within the broader ecosystem.
 
